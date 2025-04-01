@@ -9,7 +9,8 @@ Welcome to the **Expense Tracker App** – your ultimate companion for managing 
 - **Financial Insights**: Get an instant overview of your financial health with the **ExpenseInfo** component, which shows you summarized transaction details and key insights into your spending patterns.
 - **Responsive Design**: Whether you're on a phone, tablet, or desktop, this app adapts beautifully to all screen sizes with a fully responsive design, ensuring a smooth user experience across all devices.
 - **Real-Time Updates**: Watch your finances update in real-time as you add or remove transactions, making it super easy to stay on track.
-- 
+
+
 <!-- ## Live Demo 🚀
 Check out the live demo and see the app in action!  
 [Live Demo Link](#)  -->
